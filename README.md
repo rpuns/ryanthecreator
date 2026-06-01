@@ -1,5 +1,4 @@
- 👋 Hi, I’m Ryan, robotics research @ RL2 Lab under Prof. Danfei Xu
-    
+ 👋 Hi, I’m Ryan
 
 <!---
 ryanthecreator/ryanthecreator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
